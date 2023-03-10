@@ -2,6 +2,7 @@
 DichroWebGit
 
 DichroWebGit is a user-friendly, free-to-download-and-use software program that enables the analyses of circular dichroism (CD) and synchrotron radiation circular dichroism (SRCD) spectroscopic data. It has been created to replace the DichroWeb secondary stucture analysis web server when and if the server is no longer available.
+
 Instructions
 
     Download the DichroWebGit repository and save the files onto your hard drive.
