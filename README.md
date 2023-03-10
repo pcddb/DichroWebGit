@@ -15,3 +15,4 @@ Instructions
         Now load the dataset into the application as described in the help file.
 
 You can also find further instructions and tutorials on our youtube channel. https://www.youtube.com/@ThePcddb/featured
+View the video entitled 'DichroIDP'.
